@@ -52,8 +52,10 @@ form button {
   padding: 8px 24px;
   text-transform: uppercase;
   width: 50%;
+} 
+#generateList:hover {
+  background-color: #448a2a;
 }
-
 .wrapper--button {
   display: flex;
   justify-content: center;
